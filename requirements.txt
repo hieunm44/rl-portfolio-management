@@ -1,0 +1,4 @@
+yfinance==0.2.65
+vnstock==3.2.6
+gymnasium==1.2.0
+stable-baselines3==2.2.1

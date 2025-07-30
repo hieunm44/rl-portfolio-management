@@ -1,0 +1,31 @@
+,Company,Ticker,Sector
+0,Apple,AAPL,IT
+1,Amgen,AMGN,Pharmaceutical
+2,Amazon,AMZN,Retailing
+3,American Express,AXP,Finance&Banking
+4,Boeing,BA,Aerospace
+5,Caterpillar,CAT,Construction
+6,Salesforce,CRM,IT
+7,Cisco,CSCO,IT
+8,Chevron,CVX,Power
+9,Disney,DIS,Communication
+10,Goldman Sachs,GS,Finance&Banking
+11,Home Depot,HD,Consumer Goods
+12,Honeywell,HON,Conglomerate
+13,IBM,IBM,IT
+14,Johnson & Johnson,JNJ,Pharmaceutical
+15,JPMorgan Chase,JPM,Finance&Banking
+16,Coca-Cola,KO,F&B Producers
+17,McDonald's,MCD,F&B Producers
+18,3M,MMM,Conglomerate
+19,Merck,MRK,Pharmaceutical
+20,Microsoft,MSFT,IT
+21,Nike,NKE,Clothing
+22,Nvidia,NVDA,IT
+23,Procter & Gamble,PG,Consumer Goods
+24,Sherwin-Williams,SHW,Chemicals
+25,Travelers,TRV,Insurance
+26,UnitedHealth Group,UNH,Insurance
+27,Visa,V,Finance&Banking
+28,Verizon,VZ,IT
+29,Walmart,WMT,Retailing
