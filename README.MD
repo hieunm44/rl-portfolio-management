@@ -40,4 +40,4 @@ This repo is my thesis "Actor-Critic Reinforcement Learning Models for Portfolio
 4. Check and run the notebook `TrainTest.ipynb` to train and test RL models. This will create `.zip` model files in folder `trained_models` and `.csv` result files in folder `results`.
 5. Check and run the notebook `Plotting.ipynb` to create visualization figures. This will create `.pdf` figure files in folder `figures`.
 
-The thesis file is published on [this site](https://thesis.unipd.it/).
+The thesis file is published on [this site](https://thesis.unipd.it/handle/20.500.12608/90414).
